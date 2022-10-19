@@ -19,7 +19,7 @@ From the appointment window, the user can add, update or delete an appointment.
 Upon clicking delete, a window will open to confirm the delete.
 
 All Customer and Appointment data must be filled out correctly for the application to run properly.
-Dates must be formatted in the format of yyyy-mm-dd. TIme must be formatted in the format hh:mm, 24hr format.
+Dates must be formatted in the format of yyyy-mm-dd. Time must be formatted in the format hh:mm, 24hr format.
 
 The report button opens a Reports window showing 3 reports.
 The third report shows how many appointments a customer has, as long as the customer has at least one appointment scheduled.
