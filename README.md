@@ -24,3 +24,4 @@ Dates must be formatted in the format of yyyy-mm-dd. Time must be formatted in t
 The report button opens a Reports window showing 3 reports.
 The third report shows how many appointments a customer has, as long as the customer has at least one appointment scheduled.
 
+Database connection class given by University, not configured for use outside of project
