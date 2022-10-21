@@ -37,3 +37,10 @@ The third report shows how many appointments a customer has, as long as the cust
 <br>
 
 Database connection class given by University, not configured for use outside of project
+
+Screenshots of working applicaion:
+![image](https://user-images.githubusercontent.com/89807553/197191634-db4a064f-e5c6-4146-a38f-f1aedae05b96.png)
+<br>
+![image](https://user-images.githubusercontent.com/89807553/197191719-8819be10-89cd-436f-b5ba-1e8153245918.png)
+<br>
+![image](https://user-images.githubusercontent.com/89807553/197191799-377ebd74-962c-4f05-a5e7-ad7872e16729.png)
